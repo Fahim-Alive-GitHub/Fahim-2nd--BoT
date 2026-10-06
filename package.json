@@ -1,7 +1,7 @@
 {
-  "name": "Fahim Chat Bot",
+  "name": "fahim chat bot",
   "version": "10.1.1",
-  "description": "made by Rahat Islam",
+  "description": "made by rahat islam",
   "main": "Xrahat.js",
   "engines": {
     "node": "20.x",
