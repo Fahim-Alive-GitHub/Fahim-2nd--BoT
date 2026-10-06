@@ -4,8 +4,8 @@
   "description": "made by rahat islam",
   "main": "Xrahat.js",
   "engines": {
-    "node": "20.x",
-    "npm": ">=10.0.0"
+    "node": "22.x",
+    "npm": ">=22.0.0"
   },
   "scripts": {
     "start": "node Xrahat.js",
